@@ -1,0 +1,11 @@
+node_modules
+dist
+dev-dist
+.vercel
+*.log
+.DS_Store
+
+# variáveis de ambiente (nunca enviar ao GitHub)
+.env
+.env.local
+.env.*.local
